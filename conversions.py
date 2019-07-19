@@ -43,17 +43,17 @@ def callIt():
         a1 = int(a)
         Dlist.append(a1)
         k = k + 1
-    #     boom=1
-    #     if boom == 1:
-    #         print("{} x {} = ".format(Dpart, base), a)
-    #
-    #
-    #     else:
-    #         print("{} x {} = ".format(kpart,base),a)
-    #     a1=int(a)
-    #     Dlist.append(a1)
-    #     k = k + 1
-    # boom = 2
+
+
+
+
+
+
+
+
+
+
+
     print(" --------------------------------------------------")
     print("integer part:")
     print(Ilist[::-1])
