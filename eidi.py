@@ -6,7 +6,8 @@ eidi(money) should be distributed according to their ages '''
 #samle input
 
 Number of times to check  : 2
-Enter six values seperated by spaces  : 3 4 5 6 7 8                              Enter six values  : 8 7 2 2 3 5
+Enter six values seperated by spaces : 3 4 5 6 7 8
+Enter six values seperated by spaces : 8 7 2 2 3 5
  '''
 #----------------------------------------------------
 
