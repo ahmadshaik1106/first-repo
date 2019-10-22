@@ -1,7 +1,8 @@
 '''a man has three childen 
 eidi(money) should be distributed according to their ages '''
-''' 
+
 #----------------------------------------------------
+'''
 #samle input
 
 Number of times to check  : 2
@@ -21,7 +22,7 @@ def c1(x):
 		else:
 			a[i]=2
 
-a=int(input("Number of times to check  : ")
+a=int(input("Number of times to check  : "))
 bla,ble=[],[]
 for i in range(a):
 	l=list(map(int,input("Enter six values seperated by spaces  : ").split()))
