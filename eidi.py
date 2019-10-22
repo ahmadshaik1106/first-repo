@@ -1,3 +1,14 @@
+'''a man has three childen 
+eidi(money) should be distributed according to their ages '''
+''' 
+#----------------------------------------------------
+#samle input
+
+Number of times to check  : 2
+Enter six values seperated by spaces  : 3 4 5 6 7 8                              Enter six values  : 8 7 2 2 3 5
+ '''
+#----------------------------------------------------
+
 def c1(x):
 	a=x
 	k1=min(a)
@@ -10,10 +21,10 @@ def c1(x):
 		else:
 			a[i]=2
 
-a=int(input())
+a=int(input("Number of times to check  : ")
 bla,ble=[],[]
 for i in range(a):
-	l=list(map(int,input().split()))
+	l=list(map(int,input("Enter six values seperated by spaces  : ").split()))
 	lage=l[0:3]
 	bla.append(lage)
 	leidi=l[3:6]
