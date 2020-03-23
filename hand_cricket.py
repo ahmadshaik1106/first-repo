@@ -29,6 +29,7 @@ def playagain():
 			break
 		print('Invalid Input')
 		
+		
 
 	p1=input("Enter name of Player 1 (optional) : ").strip()
 	if one_or_2==1:
